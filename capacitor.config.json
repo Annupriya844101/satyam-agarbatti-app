@@ -1,0 +1,7 @@
+{
+  "appId": "com.satyam.agarbatti",
+  "appName": "Satyam Agarbatti",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#17483f"
+}
